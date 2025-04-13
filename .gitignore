@@ -1,9 +1,8 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
-*
+
 
 # Python
 __pycache__/
-*.py[cod]
 *$py.class
 *.so
 .Python
@@ -29,6 +28,11 @@ env/
 ENV/
 .env
 .venv
+pyvenv.cfg
+
+bin/
+
+
 
 # IDE
 .idea/
